@@ -1,2 +1,2 @@
 "#test"
-hello git
+hi git
